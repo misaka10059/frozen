@@ -1,0 +1,7 @@
+dependencies {
+    //lombok
+//    compile 'org.projectlombok:lombok:1.12.4'
+//
+//    compile "org.springframework.boot:spring-boot-starter-data-rest"
+
+}
